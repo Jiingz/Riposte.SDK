@@ -5,7 +5,6 @@
     /// </summary>
     public enum PluginType
     {
-        Core,
         Orbwalker,
         Prediction,
         Champion,
