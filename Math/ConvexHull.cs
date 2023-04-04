@@ -1,12 +1,13 @@
-﻿namespace LeagueSharp.SDK
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Drawing;
-    using System.Linq;
-    using System.Numerics;
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Numerics;
 
-    using SharpDX;
+using SharpDX;
+
+namespace Riposte.SDK.Math
+{
 
     /// <summary>
     ///     Provides methods for finding the minimum enclosing circles.
