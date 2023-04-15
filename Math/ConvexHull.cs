@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Numerics;
-
-using SharpDX;
-
-namespace Riposte.SDK.Math
+﻿namespace Riposte.SDK.Math
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Drawing;
+    using System.Linq;
+    using System.Numerics;
+
+    using SharpDX;
 
     /// <summary>
     ///     Provides methods for finding the minimum enclosing circles.
