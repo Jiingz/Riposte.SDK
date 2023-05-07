@@ -8,6 +8,7 @@
         Orbwalker,
         Prediction,
         Champion,
-        Utility
+        Utility,
+        Library
     }
 }
